@@ -519,7 +519,7 @@ quicklink: false
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname:
   count: true
   lazyload: false
