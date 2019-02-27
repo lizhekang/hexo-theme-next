@@ -519,7 +519,7 @@ quicklink: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname:
   count: true
   lazyload: false
@@ -548,7 +548,7 @@ valine:
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC80Mjg4MC8xOTQyNw==
 
 # Gitment
 # Introduction: https://github.com/imsun/gitment
