@@ -323,9 +323,9 @@ wechat_subscriber:
 # If true, reward would be displayed in every article by default.
 # You can show or hide reward in a specific article throuth `reward: true | false` in Front Matter.
 reward:
-  enable: false
+  enable: true
   #comment: Donate comment here
-  #wechatpay: /images/wechatpay.jpg
+  wechatpay: /images/mine/wechat_reward.jpeg
   #alipay: /images/alipay.jpg
   #bitcoin: /images/bitcoin.jpg
 
